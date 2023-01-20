@@ -1,13 +1,12 @@
-# linker-er: Linktree Alternative
+<div align="center">
 
-## Link Tree is for pople who can't code. 
+# Links Page
+### Made with Linker-er [[Link]]
 
-## I made my own!
+<br>
 
-Notes:
-- I know this misses a lot of feautres like Analytics
-- Images
-- Other perks of linktree
+Linker-er is my personal Link Tree Alternative. 
 
-But, I will learn to code them myself. !
+</div>
 
+[Link]: https://github.com/gamedevCloudy/linker-er
