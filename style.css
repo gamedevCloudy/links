@@ -1,9 +1,11 @@
 .pfp{
+    align-self: center;
     width: 100px;
     height: auto;
     margin: auto;
     border-radius: 50px;
     padding: auto;
+    border: .2px solid #9CAF88;
 }
 
 .linker{
@@ -16,10 +18,10 @@ mark{
     background-color: #e8defc;
 }
 body{
-    background-color: #f2f2f2;
+    background-color: #faf8f6;
 }
 footer{
-    background-color: #f2f2f2;
+    background-color: #faf8f6;
     width: 60%;
     margin: auto;
     text-align: center;
@@ -37,7 +39,7 @@ button {
     display: inline-block;
     font-size: 16px;
     border-radius: 15px;
-    transition: all .8s ease;
+    transition: all .3s ease;
   }
 .btn {
     margin-left: 90%;
@@ -53,6 +55,9 @@ button {
     font-size: 16px;
     border-radius: 20px;
     transition: all .25s cubic-bezier(0.08, 0.59, 0.29, 0.99) 0s;
+
+    display: flex;
+    flex-direction: row-reverse
   }
 
 button:hover{
